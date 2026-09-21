@@ -1,5 +1,3 @@
-<img width="643" alt="image" src="https://github.com/eugeniavuong/eugeniavuong/assets/79220690/9566465c-4a09-41ff-b8f9-1273537cff41">
-
 
 <!--
 **eugeniavuong/eugeniavuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
